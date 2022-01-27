@@ -15,7 +15,8 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "main.py",
-        "assets.ts"
+        "assets.ts",
+        "play.ts"
     ],
     "testFiles": [
         "test.ts"
